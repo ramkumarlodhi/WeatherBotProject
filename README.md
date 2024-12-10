@@ -40,4 +40,4 @@ This project is a Telegram bot that allows users to subscribe to weather updates
 - `/weather` - Get current weather.
 
 ---
-Happy Coding!
+ramkumarlodhi!
